@@ -1,2 +1,2 @@
 # scaling-winner
-scaling-winner
+Data Enthusiast adept in executing data-driven solutions to increase efficiency and accuracy with business impact. I hold expertise in building, analyzing, evaluating and deploying Machine Learning Models, using predictive data modelling, relevant in providing action-oriented solutions to complex business problems. Well-versed in spreadsheets, statistics, machine learning techniques and visualization.
